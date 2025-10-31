@@ -3,13 +3,13 @@ package basicService
 import (
 	"github.com/ArtisanCloud/PowerLibs/v3/logger/contract"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/contentSecurity"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/jssdk"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/media"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/qrCode"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/url"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/providers"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/contentSecurity"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/jssdk"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/media"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/qrCode"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/url"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/providers"
 )
 
 type Application struct {

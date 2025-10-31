@@ -4,10 +4,10 @@ import (
 	"context"
 	"errors"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/groupRobot/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/groupRobot/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/groupRobot/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/groupRobot/response"
 )
 
 type Client struct {

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/ArtisanCloud/PowerLibs/v3/fmt"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/wxa/sec/order/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram/wxa/sec/order/request"
 )
 
 var app *miniProgram.MiniProgram

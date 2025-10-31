@@ -3,10 +3,10 @@ package contactWay
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	request2 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay/request"
-	response3 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
+	request2 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/contactWay/request"
+	response3 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/contactWay/response"
 )
 
 type Client struct {

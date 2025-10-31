@@ -3,8 +3,8 @@ package material
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	response4 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/media/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	response4 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/media/response"
 	"net/http"
 )
 

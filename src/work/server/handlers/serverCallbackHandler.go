@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/contract"
 )
 
 type ServerCallbackHandler struct {

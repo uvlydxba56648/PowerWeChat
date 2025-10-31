@@ -3,11 +3,11 @@ package media
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/support"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/media/response"
 	"github.com/pkg/errors"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/support"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/media/response"
 	"net/http"
 	"os"
 )

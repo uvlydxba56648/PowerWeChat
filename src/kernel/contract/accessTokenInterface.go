@@ -3,7 +3,7 @@ package contract
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
 	"net/http"
 )
 

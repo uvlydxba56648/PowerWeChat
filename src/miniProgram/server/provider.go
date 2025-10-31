@@ -1,10 +1,10 @@
 package server
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/messages"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/server"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/server/handlers"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/messages"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/officialAccount/server"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/server/handlers"
 )
 
 func RegisterProvider(app kernel.ApplicationInterface) (*server.Guard, error) {

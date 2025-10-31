@@ -3,7 +3,7 @@ package groupRobot
 import (
 	"errors"
 	"fmt"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/messages"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/messages"
 )
 
 type Messager struct {

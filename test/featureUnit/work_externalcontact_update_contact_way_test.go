@@ -3,8 +3,8 @@ package featureUnit
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/fmt"
-	request2 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
+	request2 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/contactWay/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
 	"testing"
 )
 

@@ -2,9 +2,9 @@ package dial
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/dial/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/dial/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/dial/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/dial/response"
 )
 
 type Client struct {

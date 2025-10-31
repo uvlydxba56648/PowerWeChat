@@ -1,6 +1,6 @@
 package request
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/license/model"
+import "github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/license/model"
 
 type RequestCreateRenewOrderJob struct {
 	CorpID string `json:"corpid,omitempty"`

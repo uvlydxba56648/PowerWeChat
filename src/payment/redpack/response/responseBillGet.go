@@ -1,6 +1,6 @@
 package response
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+import "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
 
 // https://pay.weixin.qq.com/wiki/doc/apiv3/apis/chapter3_1_9.shtml
 

@@ -2,10 +2,10 @@ package meetingroom
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meetingroom/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meetingroom/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/meetingroom/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/meetingroom/response"
 )
 
 type Client struct {

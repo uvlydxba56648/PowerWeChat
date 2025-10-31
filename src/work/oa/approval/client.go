@@ -2,10 +2,10 @@ package approval
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/approval/request"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/approval/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/approval/request"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/oa/approval/response"
 )
 
 type Client struct {

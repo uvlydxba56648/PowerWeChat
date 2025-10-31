@@ -4,7 +4,7 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
 	"github.com/ArtisanCloud/PowerSocialite/v3/src"
 	"github.com/ArtisanCloud/PowerSocialite/v3/src/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
 	"strings"
 )
 

@@ -2,10 +2,10 @@ package device
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/device/request"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/device/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram/device/request"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram/device/response"
 )
 
 type Client struct {

@@ -1,7 +1,7 @@
 package request
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
 )
 
 type RequestGroupWelcomeTemplateAdd struct {

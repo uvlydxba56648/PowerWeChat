@@ -3,11 +3,11 @@ package tax
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/tax/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/tax/response"
 	"net/http"
 
-	payment "github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/tax/request"
+	payment "github.com/uvlydxba56648/PowerWeChat/v3/src/payment/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/tax/request"
 )
 
 type Client struct {

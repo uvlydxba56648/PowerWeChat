@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/agent/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/agent/response"
 )
 
 type Client struct {

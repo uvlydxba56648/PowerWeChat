@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/support"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/support"
 )
 
 // Wechat Docs: https://open.work.weixin.qq.com/api/doc/90000/90138/90307

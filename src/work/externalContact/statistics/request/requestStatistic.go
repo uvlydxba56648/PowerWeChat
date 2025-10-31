@@ -1,6 +1,6 @@
 package request
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
+import "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
 
 type RequestStatisticByDay struct {
 	DayBeginTime int64          `json:"day_begin_time" `

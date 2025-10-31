@@ -2,9 +2,9 @@ package nfcUrlLink
 
 import (
 	"context"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/nfcUrlLink/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/nfcUrlLink/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram/nfcUrlLink/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/miniProgram/nfcUrlLink/response"
 )
 
 type Client struct {

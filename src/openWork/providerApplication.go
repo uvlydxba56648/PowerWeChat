@@ -4,11 +4,11 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v3/logger"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
 
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/base"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/license"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/provider"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/providers"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/base"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/license"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/provider"
 )
 
 type OpenWorkProvider struct {

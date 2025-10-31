@@ -1,8 +1,8 @@
 package models
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/models"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/contract"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/models"
 )
 
 // https://developers.weixin.qq.com/doc/offiaccount/Publish/Callback_on_finish.html

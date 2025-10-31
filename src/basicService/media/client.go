@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/media/response"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/basicService/media/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
 	"net/http"
 	"os"
 )

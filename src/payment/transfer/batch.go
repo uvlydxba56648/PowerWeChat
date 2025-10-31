@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	payment "github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/transfer/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/transfer/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
+	payment "github.com/uvlydxba56648/PowerWeChat/v3/src/payment/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/transfer/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/transfer/response"
 	"net/http"
 )
 

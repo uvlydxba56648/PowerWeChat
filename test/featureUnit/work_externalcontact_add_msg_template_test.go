@@ -3,7 +3,7 @@ package featureUnit
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/fmt"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work/externalContact/messageTemplate/request"
 	"testing"
 )
 

@@ -1,6 +1,6 @@
 package response
 
-import "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+import "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
 
 type Link struct {
 	LinkId     string `json:"link_id"`   // 链接ID

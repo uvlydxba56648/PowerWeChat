@@ -10,16 +10,16 @@ import (
 	"strings"
 	"time"
 
-	request2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/request"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+	request2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/request"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
 
 	"github.com/ArtisanCloud/PowerLibs/v3/http/contract"
 	"github.com/ArtisanCloud/PowerLibs/v3/http/helper"
 	contract2 "github.com/ArtisanCloud/PowerLibs/v3/logger/contract"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
 	"github.com/ArtisanCloud/PowerLibs/v3/os"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/support"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/support"
 )
 
 type BaseClient struct {

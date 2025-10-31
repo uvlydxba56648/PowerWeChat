@@ -7,15 +7,15 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
 	"net/http"
 
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/providers"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/base"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/corp"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/externalcontact"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/server"
-	suit "github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/suitAuth"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/user"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/providers"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/base"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/corp"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/externalcontact"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/server"
+	suit "github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/suitAuth"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/user"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work"
 )
 
 type OpenWork struct {

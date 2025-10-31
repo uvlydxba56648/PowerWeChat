@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/work"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/work"
 )
 
 var (

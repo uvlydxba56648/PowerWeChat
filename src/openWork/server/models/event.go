@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
-	kernelModels "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/models"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/contract"
+	kernelModels "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/models"
 )
 
 type InfoType = string

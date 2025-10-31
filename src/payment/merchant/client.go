@@ -3,10 +3,10 @@ package merchant
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	payment "github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/merchant/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/merchant/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	payment "github.com/uvlydxba56648/PowerWeChat/v3/src/payment/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/merchant/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/merchant/response"
 )
 
 type Client struct {

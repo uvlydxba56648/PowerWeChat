@@ -3,10 +3,10 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/server/models"
-	suit "github.com/ArtisanCloud/PowerWeChat/v3/src/openWork/suitAuth"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/contract"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/server/models"
+	suit "github.com/uvlydxba56648/PowerWeChat/v3/src/openWork/suitAuth"
 )
 
 type SuiteTicket struct {

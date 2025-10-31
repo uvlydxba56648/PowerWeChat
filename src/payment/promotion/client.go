@@ -3,9 +3,9 @@ package promotion
 import (
 	"context"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	payment "github.com/ArtisanCloud/PowerWeChat/v3/src/payment/kernel"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/promotion/request"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/payment/promotion/response"
+	payment "github.com/uvlydxba56648/PowerWeChat/v3/src/payment/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/promotion/request"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/payment/promotion/response"
 	"net/http"
 )
 

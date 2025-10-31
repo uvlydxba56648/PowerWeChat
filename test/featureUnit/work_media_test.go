@@ -3,7 +3,7 @@ package featureUnit
 import (
 	"github.com/ArtisanCloud/PowerLibs/v3/fmt"
 	"github.com/ArtisanCloud/PowerLibs/v3/media"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/work/media/response"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/work/media/response"
 	"image/jpeg"
 	"io"
 	"os"

@@ -1,7 +1,7 @@
 package messages
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/power"
 )
 
 type File struct {

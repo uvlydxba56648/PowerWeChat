@@ -14,9 +14,9 @@ import (
 	"github.com/ArtisanCloud/PowerLibs/v3/http/helper"
 	contract2 "github.com/ArtisanCloud/PowerLibs/v3/logger/contract"
 	"github.com/ArtisanCloud/PowerLibs/v3/object"
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract"
-	request2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/request"
-	response2 "github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/contract"
+	request2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/request"
+	response2 "github.com/uvlydxba56648/PowerWeChat/v3/src/kernel/response"
 )
 
 type AccessToken struct {

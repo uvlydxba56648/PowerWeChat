@@ -1,7 +1,7 @@
 package dataCube
 
 import (
-	"github.com/ArtisanCloud/PowerWeChat/v3/src/kernel"
+	"github.com/uvlydxba56648/PowerWeChat/v3/src/kernel"
 )
 
 func RegisterProvider(app kernel.ApplicationInterface) (*Client, error) {
