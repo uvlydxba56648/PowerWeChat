@@ -35,6 +35,7 @@ import (
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/updatableMessage"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlScheme"
+	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/nfcUrlLink"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/virtualPayment"
 	wxaSecOrder "github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/wxa/sec/order"
 	"github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/wxaCode"
@@ -81,8 +82,9 @@ type MiniProgram struct {
 	WXACode     *wxaCode.Client
 	WXASecOrder *wxaSecOrder.Client
 
-	URLScheme *urlScheme.Client
-	URLLink   *urlLink.Client
+	URLScheme  *urlScheme.Client
+	URLLink    *urlLink.Client
+	NFCUrlLink *nfcUrlLink.Client
 
 	Security *security.Client
 	Search   *search.Client
@@ -335,6 +337,12 @@ func NewMiniProgram(config *UserConfig, extraInfos ...*kernel.ExtraInfo) (*MiniP
 		return nil, err
 	}
 
+	//-------------- register NFCUrlLink --------------
+	app.NFCUrlLink, err = nfcUrlLink.RegisterProvider(app)
+	if err != nil {
+		return nil, err
+	}
+
 	//-------------- register Security --------------
 	app.Security, err = security.RegisterProvider(app)
 	if err != nil {
@@ -479,6 +487,8 @@ func (app *MiniProgram) GetComponent(name string) interface{} {
 		return app.URLScheme
 	case "URLLink":
 		return app.URLLink
+	case "NFCUrlLink":
+		return app.NFCUrlLink
 
 	case "Security":
 		return app.Security
